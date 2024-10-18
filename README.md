@@ -38,9 +38,6 @@
   <a href="https://www.min.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg?sanitize=true" alt="MinIO" width="80" style="margin-left: 10px;" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka" width="80" />
-  </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="80" />
   </a>
