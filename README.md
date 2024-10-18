@@ -164,6 +164,8 @@ Here are a few projects I've worked on:
 - **Big Data ETL Pipeline**: Designed an ETL pipeline to efficiently process large datasets using Apache Spark and Airflow, ensuring seamless data flow and management.
 
 - **Data Visualization Dashboard**: Created interactive dashboards using Power BI and Tableau to visualize complex datasets, enhancing data-driven decision-making.
+- **Automated Text Generation**: its an  NLP model is designed to generate text using bigrams and probabilities.
+- 
 
 ---
 
