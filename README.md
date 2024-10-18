@@ -155,19 +155,31 @@
 </p>
 
 ---
-
-### 📊 Projects  
+### 📊 PROJECTS  
 Here are a few projects I've worked on:
 
-- **EUR/USD Stock Market Prediction**: Developed a deep learning model for predicting daily actions in the EUR/USD stock market. Utilized Python, Flask, and integrated with a web interface for visualization.
-  
-- **Big Data ETL Pipeline**: Designed an ETL pipeline to efficiently process large datasets using Apache Spark and Airflow, ensuring seamless data flow and management.
+- **EUR/USD STOCK MARKET PREDICTION**: 
+  - Developed a deep learning model to predict daily movements in the EUR/USD stock market using Python and Flask, with a web interface for visualization.  
+  - [GitHub Repository](https://github.com/jawaddata/EUR-USD-Stock-Market-Prediction)
 
-- **Data Visualization Dashboard**: Created interactive dashboards using Power BI and Tableau to visualize complex datasets, enhancing data-driven decision-making.
-- **Automated Text Generation**: its an  NLP model is designed to generate text using bigrams and probabilities.
-- 
+- **BIG DATA ETL PIPELINE**: 
+  - Designed an ETL pipeline for efficient processing of large datasets using Apache Spark and Airflow, ensuring seamless data flow and management.  
+  - [GitHub Repository](https://github.com/jawaddata/Big-Data-ETL-Pipeline)
+
+- **DATA VISUALIZATION DASHBOARD**: 
+  - Created interactive dashboards with Power BI and Tableau to visualize complex datasets, enhancing data-driven decision-making.  
+  - [GitHub Repository](https://github.com/jawaddata/Data-Visualization-Dashboard)
+
+- **AUTOMATED TEXT GENERATION**: 
+  - Developed an NLP model to generate text using bigrams and probabilities.  
+  - [GitHub Repository](https://github.com/jawaddata/Automated-Text-Generation)
+
+- **AUTOMATED SPELL CHECKER**: 
+  - Built an NLP model to check English spelling, employing bigrams and probabilities to achieve minimum edit distance for corrections.  
+  - [GitHub Repository](https://github.com/jawaddata/Automated-Spell-Checker)
 
 ---
+
 
 ### 📊 GitHub Stats  
 
