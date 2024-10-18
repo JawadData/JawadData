@@ -163,7 +163,7 @@ Here are a few projects I've worked on:
   #### **EUR/USD STOCK MARKET PREDICTION**
   - Developed a deep learning model to predict daily movements in the EUR/USD stock market using Python.
   - Integrated a Flask-based web interface for user-friendly visualization of stock trends.
-  - [GitHub Repository](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git) | **[Know more](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git)**
+  - **[Know more](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git)**
   
 </div>
 
@@ -172,7 +172,7 @@ Here are a few projects I've worked on:
   #### **BIG DATA ETL PIPELINE**
   - Built a scalable ETL pipeline to extract and process patent data from multiple sources using Apache Spark.
   - Loaded data into MongoDB and visualized insights through Power BI for enhanced data accessibility and user interaction.
-  - [GitHub Repository](https://github.com/JawadData/Big-Data-ETL-Pipeline) | **[Know more](https://github.com/JawadData/Big-Data-ETL-Pipeline)**
+  - **[Know more](https://github.com/JawadData/patents_analysis.git)**
   
 </div>
 
@@ -180,7 +180,7 @@ Here are a few projects I've worked on:
   
   #### **AUTOMATED TEXT GENERATION**
   - Designed an NLP model to generate text based on bigrams and probabilities, enabling coherent sentence formation.
-  - [GitHub Repository](https://github.com/JawadData/TextGeneration.git) | **[Know more](https://github.com/JawadData/TextGeneration.git)**
+  - **[Know more](https://github.com/JawadData/TextGeneration.git)**
   
 </div>
 
@@ -188,7 +188,7 @@ Here are a few projects I've worked on:
   
   #### **AUTOMATED SPELL CHECKER**
   - Developed an NLP-based spell checker that utilizes bigrams and probabilities to correct spelling with minimum edit distance.
-  - [GitHub Repository](https://github.com/JawadData/SpellChecker.git) | **[Know more](https://github.com/JawadData/SpellChecker.git)**
+  - **[Know more](https://github.com/JawadData/SpellChecker.git)**
   
 </div>
 
