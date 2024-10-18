@@ -24,7 +24,7 @@
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Engineering & Big Data</h4>
 
-<p style="display: flex; align-items: center; margin-left: 50px;">
+<p style="display: flex; align-items: center; margin-left: 150px;">
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="80" /> 
   </a>
