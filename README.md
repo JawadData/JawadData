@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **jawadbachiri333@gmail.com**
 
-- 📄 Know about my experiences [cv](cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
