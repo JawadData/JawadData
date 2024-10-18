@@ -155,42 +155,43 @@
 </p>
 
 
----
 ### 📊 PROJECTS  
 Here are a few projects I've worked on:
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
   #### **EUR/USD STOCK MARKET PREDICTION**
-  - Developed a deep learning model to predict daily movements in the EUR/USD stock market, utilizing Python and Flask.
-  - Integrated a web interface for visualization to track stock trends.
-  - [GitHub Repository](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git)
+  - Developed a deep learning model to predict daily movements in the EUR/USD stock market using Python.
+  - Integrated a Flask-based web interface for user-friendly visualization of stock trends.
+  - [GitHub Repository](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git) | **[Know more](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git)**
   
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
   #### **BIG DATA ETL PIPELINE**
-  - Built a scalable data pipeline to extract patents from multiple sources, analyze the data with Apache Spark, and visualize insights through a Flask-powered dashboard.
-  - [GitHub Repository](https://github.com/JawadData/Big-Data-ETL-Pipeline)
+  - Built a scalable ETL pipeline to extract and process patent data from multiple sources using Apache Spark.
+  - Loaded data into MongoDB and visualized insights through Power BI for enhanced data accessibility and user interaction.
+  - [GitHub Repository](https://github.com/JawadData/Big-Data-ETL-Pipeline) | **[Know more](https://github.com/JawadData/Big-Data-ETL-Pipeline)**
   
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
   #### **AUTOMATED TEXT GENERATION**
-  - Created an NLP model for automated text generation using bigrams and probabilities to generate coherent sentences.
-  - [GitHub Repository](https://github.com/JawadData/TextGeneration.git)
+  - Designed an NLP model to generate text based on bigrams and probabilities, enabling coherent sentence formation.
+  - [GitHub Repository](https://github.com/JawadData/TextGeneration.git) | **[Know more](https://github.com/JawadData/TextGeneration.git)**
   
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
   #### **AUTOMATED SPELL CHECKER**
-  - Developed a spell checker using an NLP model that employs bigrams and probabilities, achieving correction through minimum edit distance.
-  - [GitHub Repository](https://github.com/JawadData/SpellChecker.git)
+  - Developed an NLP-based spell checker that utilizes bigrams and probabilities to correct spelling with minimum edit distance.
+  - [GitHub Repository](https://github.com/JawadData/SpellChecker.git) | **[Know more](https://github.com/JawadData/SpellChecker.git)**
   
 </div>
+
 
 
 
@@ -198,8 +199,4 @@ Here are a few projects I've worked on:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawaddata&" alt="GitHub Streak Stats" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jawaddata&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%" />
 </p>
