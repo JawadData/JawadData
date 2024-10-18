@@ -92,6 +92,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://img.freepik.com/premium-vector/sql-structured-query-language-icon-label-internet-security-networking-vector-stock-illustration_100456-10733.jpg" alt="SQL" width="40" height="40"/>
+  </a>
 </p>
 
 ---
