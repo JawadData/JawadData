@@ -156,6 +156,17 @@
 
 ---
 
+### 📊 Projects  
+Here are a few projects I've worked on:
+
+- **EUR/USD Stock Market Prediction**: Developed a deep learning model for predicting daily actions in the EUR/USD stock market. Utilized Python, Flask, and integrated with a web interface for visualization.
+  
+- **Big Data ETL Pipeline**: Designed an ETL pipeline to efficiently process large datasets using Apache Spark and Airflow, ensuring seamless data flow and management.
+
+- **Data Visualization Dashboard**: Created interactive dashboards using Power BI and Tableau to visualize complex datasets, enhancing data-driven decision-making.
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
