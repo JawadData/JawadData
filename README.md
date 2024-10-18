@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jawad Bachiri</h1>
 <h3 align="center">Aspiring Data Engineer 🚀 | Passionate about Big Data, ETL, and AI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jawaddata&label=Profile%20views&color=0e75b6&style=flat" alt="jawaddata" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jawaddata&label=Profile%20views&color=0e75b6&style=flat" alt="jawaddata" /> </p>
 
 ---
 
