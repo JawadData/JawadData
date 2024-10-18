@@ -154,31 +154,44 @@
   </a>
 </p>
 
+
 ---
 ### 📊 PROJECTS  
 Here are a few projects I've worked on:
 
-- **EUR/USD STOCK MARKET PREDICTION**: 
-  - Developed a deep learning model to predict daily movements in the EUR/USD stock market using Python and Flask, with a web interface for visualization.  
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
+  #### **EUR/USD STOCK MARKET PREDICTION**
+  - Developed a deep learning model to predict daily movements in the EUR/USD stock market, utilizing Python and Flask.
+  - Integrated a web interface for visualization to track stock trends.
   - [GitHub Repository](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git)
+  
+</div>
 
-- **BIG DATA ETL PIPELINE**: 
-  - Designed an ETL pipeline for efficient processing of large datasets using Apache Spark and Airflow, ensuring seamless data flow and management.  
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
+  #### **BIG DATA ETL PIPELINE**
+  - Built a scalable data pipeline to extract patents from multiple sources, analyze the data with Apache Spark, and visualize insights through a Flask-powered dashboard.
   - [GitHub Repository](https://github.com/JawadData/Big-Data-ETL-Pipeline)
+  
+</div>
 
-- **DATA VISUALIZATION DASHBOARD**: 
-  - Created interactive dashboards with Power BI and Tableau to visualize complex datasets, enhancing data-driven decision-making.  
-  - [GitHub Repository](https://github.com/JawadData/patents_analysis.git)
-
-- **AUTOMATED TEXT GENERATION**: 
-  - Developed an NLP model to generate text using bigrams and probabilities.  
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
+  #### **AUTOMATED TEXT GENERATION**
+  - Created an NLP model for automated text generation using bigrams and probabilities to generate coherent sentences.
   - [GitHub Repository](https://github.com/JawadData/TextGeneration.git)
+  
+</div>
 
-- **AUTOMATED SPELL CHECKER**: 
-  - Built an NLP model to check English spelling, employing bigrams and probabilities to achieve minimum edit distance for corrections.  
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
+  #### **AUTOMATED SPELL CHECKER**
+  - Developed a spell checker using an NLP model that employs bigrams and probabilities, achieving correction through minimum edit distance.
   - [GitHub Repository](https://github.com/JawadData/SpellChecker.git)
+  
+</div>
 
----
 
 
 ### 📊 GitHub Stats  
