@@ -13,9 +13,13 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-  📧 Email: <a href="mailto:jawadbachiridata@gmail.com">jawadbachiridata@gmail.com</a> <br>
-  📱 Téléphone: +212 7 07 86 82 52
+  📧 Email: <a href="mailto:jawad.bachiri@gmail.com">jawad.bachiri@gmail.com</a> <br>
 </p>
+<p align="center" style="font-size: 18px;">
+  📱 Téléphone: <a href="tel:+212707868252" style="text-decoration: underline; color: blue;">Voir le numéro</a>
+</p>
+
+
 
 ---
 
