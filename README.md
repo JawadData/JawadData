@@ -12,19 +12,17 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   📧 Email: <a href="mailto:jawadbachiridata@gmail.com">jawadbachiridata@gmail.com</a> <br>
   📱 Téléphone: +212 7 07 86 82 52
 </p>
-
 
 ---
 
 ### 🛠️ Languages & Tools  
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Engineering & Big Data</h4>
-
-<p style="display: flex; align-items: center;">
+<h4 align="left">Data Engineering & Big Data</h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="80" /> 
   </a>
@@ -47,9 +45,8 @@
 
 ---
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Databases</h4>
-
-<p align="left">
+<h4 align="left">Databases</h4>
+<p style="display: flex; justify-content: left; flex-wrap: wrap;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -72,9 +69,8 @@
 
 ---
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming & Scripting Languages </h4>
- 
-<p align="left">
+<h4 align="left">Programming & Scripting Languages </h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
@@ -87,22 +83,12 @@
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://img.freepik.com/premium-vector/sql-structured-query-language-icon-label-internet-security-networking-vector-stock-illustration_100456-10733.jpg" alt="SQL" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Science & Machine Learnings </h4>
-
-<p align="left">
+<h4 align="left">Data Science & Machine Learning</h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
@@ -122,9 +108,8 @@
 
 ---
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevOps & Tools </h4>
-
-<p align="left">
+<h4 align="left">DevOps & Tools</h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -137,22 +122,41 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+</p>
+
+---
+
+<h4 align="left">Query Language</h4>
+<p align="left">
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://img.freepik.com/premium-vector/sql-structured-query-language-icon-label-internet-security-networking-vector-stock-illustration_100456-10733.jpg" alt="SQL" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 📊 Data Visualization Tools  
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="Power BI" width="80" />
+<h4 align="left">Web Development</h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="Tableau" width="80" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  </a>
+
 </p>
+
+---
+
 
 
 ### 📊 PROJECTS  
