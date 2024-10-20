@@ -14,8 +14,9 @@
 
 <p align="center" style="font-size: 18px;">
   📧 Email: <a href="mailto:jawadbachiridata@gmail.com">jawadbachiridata@gmail.com</a> <br>
-  📱 Téléphone: +2127 07 86 82 52
+  📱 Téléphone: <a href="tel:+212707868252">+2127 07 86 82 52</a>
 </p>
+
 
 ---
 
