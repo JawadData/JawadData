@@ -47,7 +47,7 @@
 ---
 
 <h4 align="left">Databases</h4>
-<p style="display: flex; justify-content: left; flex-wrap: wrap;">
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -70,7 +70,7 @@
 
 ---
 
-<h4 align="left">Programming & Scripting Languages </h4>
+<h4 align="left">Programming & Scripting Languages</h4>
 <p style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -102,6 +102,21 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+<h4 align="left">Data Visualization</h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/815/646/png-transparent-tableau-full-logo-tech-companies-thumbnail.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
@@ -109,8 +124,11 @@
 
 ---
 
-<h4 align="left">DevOps & Tools</h4>
+<h4 align="left">Automation Tools</h4>
 <p style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -153,12 +171,9 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   </a>
-
 </p>
 
----
-
-
+----
 
 ### 📊 PROJECTS  
 Here are a few projects I've worked on:
