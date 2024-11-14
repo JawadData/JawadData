@@ -173,11 +173,20 @@
 ----
 
 ### 📊 PROJECTS  
-Here are a few projects I've worked on:
+Here are a few recent projects I’ve worked on:
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
-  #### **EUR/USD STOCK MARKET PREDICTION**
+  #### **DATA QUALITY PROJECT**
+  - A project aimed at ensuring data quality and creating impactful visualizations through a robust data pipeline.
+  - Outils: HDFS, Dremio, PostgreSQL, PySpark, Python, Pandas, Airflow, Docker, Power BI.
+  - **[Know more](https://github.com/JawadData/Data_quality_project.git)**
+  
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
+  #### **TIME SERIES FORECASTING**
   - Developed a deep learning model to predict daily movements in the EUR/USD stock market using Python.
   - Integrated a Flask-based web interface for user-friendly visualization of stock trends.
   - **[Know more](https://github.com/JawadData/EUR-USD_DailyActionPrediction.git)**
