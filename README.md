@@ -185,6 +185,15 @@ Here are a few recent projects I’ve worked on:
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
+  #### **GITEX AFRICA AZURE PROJECT**
+  - A project demonstrating an end-to-end data engineering pipeline leveraging Azure services for data ingestion, transformation, and analysis.
+  - Outils: Azure Data Factory, Azure Data Lake, Azure Databricks, Azure Synapse Analytics, Power BI, GitHub.
+  - **[Know more](https://github.com/JawadData/GitexAfrica-Azure-Project.git)**
+  
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
   #### **DATA QUALITY PROJECT**
   - A project aimed at ensuring data quality and creating impactful visualizations through a robust data pipeline.
   - Outils: HDFS, Dremio, PostgreSQL, PySpark, Python, Pandas, Airflow, Docker, Power BI.
