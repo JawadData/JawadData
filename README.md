@@ -45,6 +45,14 @@
 </p>
 
 ---
+<h4 align="left">☁️ Cloud Computing</h4>
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Cloud" width="80" />
+  </a>
+</p>
+
+---
 
 <h4 align="left">Databases</h4>
 <p style="display: flex; justify-content: center; flex-wrap: wrap;">
