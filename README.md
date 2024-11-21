@@ -116,9 +116,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/815/646/png-transparent-tableau-full-logo-tech-companies-thumbnail.png" alt="Tableau" width="40" height="40"/>
-  </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
@@ -234,6 +231,14 @@ Here are a few recent projects I’ve worked on:
   - **[Know more](https://github.com/JawadData/SpellChecker.git)**
   
 </div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
+  #### **Portfolio of Data Analytics Projects with Power BI**
+  - **[Explore the projects](https://github.com/JawadData/Data-Analytics-projects-avec-Power-Bi)**
+
+</div>
+
 
 
 
