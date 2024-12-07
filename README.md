@@ -1,3 +1,17 @@
+<!-- 
+Google Analytics Tracking Code
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W78C2E3568"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W78C2E3568');
+</script>
+-->
+
+
+
 <h1 align="center">Hi 👋, I'm Jawad Bachiri</h1>
 <h3 align="center">Aspiring Data Engineer 🚀 | Passionate about Big Data, Data Analytics, ETL, and AI</h3>
 
