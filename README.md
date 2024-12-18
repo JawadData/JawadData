@@ -109,6 +109,16 @@ Here are a few recent projects I’ve worked on:
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
+  #### **SCOPUS DATA PIPELINE AND ANALYTICS DASHBOARD**
+  - A project showcasing an end-to-end ETL pipeline for data extraction, transformation, and visualization using modern data tools and technologies.
+  - Tools: Scopus API, Snowflake, PySpark, Microsoft SQL Server, Power BI, GitHub.
+  - **[Know more](https://github.com/JawadData/scopus-data-analysis.git)**
+  
+</div>
+
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+  
   #### **GITEX AFRICA AZURE PROJECT**
   - A project demonstrating an end-to-end data engineering pipeline leveraging Azure services for data ingestion, transformation, and analysis.
   - Outils: Azure Data Factory, Azure Data Lake, Azure Databricks, Azure Synapse Analytics, Power BI, GitHub.
